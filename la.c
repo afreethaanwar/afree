@@ -11,6 +11,5 @@ else if((b>c)&&(b>a))
 printf("b is largest");
 else
 printf("c is largest");
-printf(" largest no is =%d",largest);
 return 0;
 }
